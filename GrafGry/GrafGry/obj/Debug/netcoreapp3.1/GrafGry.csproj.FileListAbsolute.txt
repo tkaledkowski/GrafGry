@@ -1,0 +1,11 @@
+C:\Users\tomek\source\repos\GrafGry\GrafGry\obj\Debug\netcoreapp3.1\GrafGry.csprojAssemblyReference.cache
+C:\Users\tomek\source\repos\GrafGry\GrafGry\obj\Debug\netcoreapp3.1\GrafGry.AssemblyInfoInputs.cache
+C:\Users\tomek\source\repos\GrafGry\GrafGry\obj\Debug\netcoreapp3.1\GrafGry.AssemblyInfo.cs
+C:\Users\tomek\source\repos\GrafGry\GrafGry\bin\Debug\netcoreapp3.1\GrafGry.exe
+C:\Users\tomek\source\repos\GrafGry\GrafGry\bin\Debug\netcoreapp3.1\GrafGry.deps.json
+C:\Users\tomek\source\repos\GrafGry\GrafGry\bin\Debug\netcoreapp3.1\GrafGry.runtimeconfig.json
+C:\Users\tomek\source\repos\GrafGry\GrafGry\bin\Debug\netcoreapp3.1\GrafGry.runtimeconfig.dev.json
+C:\Users\tomek\source\repos\GrafGry\GrafGry\bin\Debug\netcoreapp3.1\GrafGry.dll
+C:\Users\tomek\source\repos\GrafGry\GrafGry\bin\Debug\netcoreapp3.1\GrafGry.pdb
+C:\Users\tomek\source\repos\GrafGry\GrafGry\obj\Debug\netcoreapp3.1\GrafGry.dll
+C:\Users\tomek\source\repos\GrafGry\GrafGry\obj\Debug\netcoreapp3.1\GrafGry.pdb
